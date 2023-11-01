@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hide-and-seek-numbers/static/css/main.38b193b9.css",
+    "main.js": "/hide-and-seek-numbers/static/js/main.501e653a.js",
+    "static/js/988.375591e3.chunk.js": "/hide-and-seek-numbers/static/js/988.375591e3.chunk.js",
+    "static/media/map1.png": "/hide-and-seek-numbers/static/media/map1.7573f0d5f27acc72c619.png",
+    "static/media/hero.png": "/hide-and-seek-numbers/static/media/hero.ba6bf546a56d22ec626c.png",
+    "index.html": "/hide-and-seek-numbers/index.html",
+    "main.38b193b9.css.map": "/hide-and-seek-numbers/static/css/main.38b193b9.css.map",
+    "main.501e653a.js.map": "/hide-and-seek-numbers/static/js/main.501e653a.js.map",
+    "988.375591e3.chunk.js.map": "/hide-and-seek-numbers/static/js/988.375591e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38b193b9.css",
+    "static/js/main.501e653a.js"
+  ]
+}
