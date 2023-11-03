@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hide-and-seek-numbers/static/css/main.74465cb1.css",
-    "main.js": "/hide-and-seek-numbers/static/js/main.a85bf59e.js",
+    "main.css": "/hide-and-seek-numbers/static/css/main.a7c727e0.css",
+    "main.js": "/hide-and-seek-numbers/static/js/main.a23327c8.js",
     "static/js/988.375591e3.chunk.js": "/hide-and-seek-numbers/static/js/988.375591e3.chunk.js",
     "static/media/map1.png": "/hide-and-seek-numbers/static/media/map1.7573f0d5f27acc72c619.png",
     "static/media/hero.png": "/hide-and-seek-numbers/static/media/hero.ba6bf546a56d22ec626c.png",
     "index.html": "/hide-and-seek-numbers/index.html",
-    "main.74465cb1.css.map": "/hide-and-seek-numbers/static/css/main.74465cb1.css.map",
-    "main.a85bf59e.js.map": "/hide-and-seek-numbers/static/js/main.a85bf59e.js.map",
+    "main.a7c727e0.css.map": "/hide-and-seek-numbers/static/css/main.a7c727e0.css.map",
+    "main.a23327c8.js.map": "/hide-and-seek-numbers/static/js/main.a23327c8.js.map",
     "988.375591e3.chunk.js.map": "/hide-and-seek-numbers/static/js/988.375591e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74465cb1.css",
-    "static/js/main.a85bf59e.js"
+    "static/css/main.a7c727e0.css",
+    "static/js/main.a23327c8.js"
   ]
 }
